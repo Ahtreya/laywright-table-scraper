@@ -1,1 +1,1 @@
-# laywright-table-scraper
+# playwright-table-scraper
