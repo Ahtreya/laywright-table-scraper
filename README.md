@@ -1,0 +1,1 @@
+# laywright-table-scraper
